@@ -18,7 +18,7 @@
     "hubot-test-helper": "^1.4.4",
     "mocha": "^3.0.0",
     "npm-run-all": "^4.0.0",
-    "power-assert": "^1.2.0"
+    "power-assert": "^1.4.4"
   },
   "files": [
     "index.coffee",
